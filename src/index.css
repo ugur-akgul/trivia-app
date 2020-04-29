@@ -42,6 +42,10 @@ code {
   font-size: 18px;
 }
 
+.label-title {
+  font-size: 30px;
+}
+
 .difficulty{
 margin: auto;
 }
